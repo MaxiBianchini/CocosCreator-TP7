@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TTFFont",
+  "_name": "game_over",
+  "_objFlags": 0,
+  "_native": "game_over.ttf",
+  "_fontFamily": null
+}

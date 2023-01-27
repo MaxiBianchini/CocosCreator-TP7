@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sprite03 Editado",
+    "texture": "a7a29b69-a7d4-4e26-b232-b955604ab608",
+    "atlas": "",
+    "rect": [
+      138,
+      90,
+      270,
+      324
+    ],
+    "offset": [
+      17,
+      4
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
